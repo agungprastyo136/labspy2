@@ -39,7 +39,7 @@ Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan B
  # Selanjutnya kita mengetahui setelah RUN yang benar:
 ![run](https://user-images.githubusercontent.com/56245855/67922954-dc5e7480-fbde-11e9-8f43-232b41a0cd38.png)
 
-
+![flow](https://user-images.githubusercontent.com/56245855/67924093-36146e00-fbe2-11e9-85be-25b9be7bacd0.png)
 
 
 
