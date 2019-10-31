@@ -35,6 +35,7 @@
 
 
 
+
  Pada if segment diatas memiliki ketentuan nilai if pertama harus bernilai true barulah nilai if yang berikutnya yang akan di proses atau dieksekusi, namun jika nilai if pertama bernilai false maka nilai if yang berikutnya tidak akan di proses, namun jika nilai if yang pertama bernilai true sedangkan nilai if yang kedua bernilai false maka yang akan di proses hanyalah if yang pertama. Berikut hasilnya jika if segment yang kita masukan bernilai true :
 ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/step.png)
 
@@ -43,5 +44,6 @@ selanjutnya kita juga bisa menambahkan is dan is not pada if segment seperti dib
 Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan Bahasa pemgraman yang lain yaitu sama-sama menggunakan if, pada setiap pemrograman if berisi sebuah ekspresi logika menggunakan sebuah data yang telah dibandingkan seperti alur flowchart dibawah ini.
 
   Contoh:
-![run](https://user-images.githubusercontent.com/56245855/67922954-dc5e7480-fbde-11e9-8f43-232b41a0cd38.png)
+![flow](https://user-images.githubusercontent.com/56245855/67923126-6c042300-fbdf-11e9-8562-7a7921191a78.png)
+
 
